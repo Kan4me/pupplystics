@@ -1,6 +1,9 @@
 # macOS
 .DS_Store
 
+# local database
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
